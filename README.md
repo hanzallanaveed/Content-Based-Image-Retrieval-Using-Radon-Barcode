@@ -1,4 +1,4 @@
-#Project Description
+- #Project Description
 
 There are a hundred handwritten images provided, with ten images representing each digit of a
 number (0 to 9). The aim is to retrieve a content-based image using a radon barcode. There is a
