@@ -1,7 +1,3 @@
 # Project Description
  
-There are a hundred handwritten images provided, with ten images representing each digit of a
-number (0 to 9). The aim is to retrieve a content-based image using a radon barcode. There is a
-singular barcode that represents each image, which will then be used to search for other barcodes
-that are the most similar to it. Then, through many trials, the accuracy of retrieving a similar
-image will then be acquired.
+One hundred handwritten images are provided, with ten images for each digit (0 to 9). The goal is to use a Radon barcode to perform content-based image retrieval. Each image is represented by a unique barcode, which is used to search for other barcodes that are most similar. Through multiple trials, the accuracy of retrieving similar images will be evaluated.
