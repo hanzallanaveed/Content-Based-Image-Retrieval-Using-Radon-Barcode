@@ -15,8 +15,8 @@ This project demonstrates the use of **Radon barcodes** for content-based image 
 Run the `Barcode_Generator.py` file (edit the code to switch between generating barcodes for one image or for all):
 
 ```bash
-python Barcode_Generator.py
-
+python Barcode_Generator.py 
+```
 Barcodes will be saved in your chosen file format (JSON or TXT).
 
 ## Search for Matches
@@ -25,3 +25,6 @@ Run the `Search_Algorithm.py` file to compare a chosen image’s barcode with th
 
 ```bash
 python Search_Algorithm.py
+```
+The script prints which image was queried and the most similar match it found, calculating a “hit ratio” (accuracy).
+Feel free to adjust threshold multipliers and loops in both .py files to experiment with different retrieval accuracies.
