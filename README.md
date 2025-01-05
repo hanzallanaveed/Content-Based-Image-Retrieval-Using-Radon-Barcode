@@ -1,4 +1,4 @@
-#Content-Based-Image-Retrieval-Using-Radon-Barcode
+# Content-Based-Image-Retrieval-Using-Radon-Barcode 
 
 This project demonstrates the use of **Radon barcodes** for content-based image retrieval on a dataset of handwritten digits (0–9), with ten images per digit (total of 100 images). Each image is converted into a 162-bit “barcode,” which can then be compared via **Hamming distance** to find the most similar image. By running multiple searches, you can measure the retrieval accuracy and explore methods to increase it.
 
